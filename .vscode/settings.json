@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "font.h": "c",
+        "move.h": "c",
+        "main.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "math.h": "c",
+        "monster.h": "c",
+        "algorithm": "c",
+        "projectile.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": false
+}
